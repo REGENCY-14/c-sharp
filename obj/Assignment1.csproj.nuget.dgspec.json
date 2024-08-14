@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SCHOOL\\YEAR THREE SEMESTER ONE\\sem 2\\programming with c#\\Assignment1\\Assignment1\\Assignment1.csproj": {}
+    "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "D:\\SCHOOL\\YEAR THREE SEMESTER ONE\\sem 2\\programming with c#\\Assignment1\\Assignment1\\Assignment1.csproj": {
+    "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SCHOOL\\YEAR THREE SEMESTER ONE\\sem 2\\programming with c#\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "D:\\SCHOOL\\YEAR THREE SEMESTER ONE\\sem 2\\programming with c#\\Assignment1\\Assignment1\\Assignment1.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "D:\\SCHOOL\\YEAR THREE SEMESTER ONE\\sem 2\\programming with c#\\Assignment1\\Assignment1\\obj\\",
+        "projectPath": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "packagesPath": "C:\\Users\\Desmends\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Desmends\\Desktop\\Assignment1\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Desmends\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
